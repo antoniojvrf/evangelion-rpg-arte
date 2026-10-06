@@ -21,5 +21,6 @@ https://cdn.jsdelivr.net/gh/antoniojvrf/evangelion-rpg-arte@main/<arquivo>
 | musica/01-cruel-angels-thesis.mp3 | Player · faixa 1 (abertura) |
 | musica/02-thanatos.mp3 | Player · faixa 2 |
 | musica/03-tsubasa-wo-kudasai.mp3 | Player · faixa 3 |
+| musica/*.json | Forma de onda real de cada faixa (gerada por `tools/peaks.py` do projeto do tema) |
 
 Logos, personagens e músicas são de *Neon Genesis Evangelion* (© khara / GAINAX) e de seus respectivos artistas. Uso em projeto de fãs, sem fins lucrativos.
